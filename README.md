@@ -1,0 +1,1 @@
+PLAGIARISM_DETECTOR is a program which will detect the simiralities by comparing two essayes we have where user will enter a word of (h)is/er own choice and the program will detect it and provide the answer. And when you are done you press 5 to exit the program.
